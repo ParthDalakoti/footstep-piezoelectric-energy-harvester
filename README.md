@@ -1,5 +1,8 @@
 # Footstep-Based Piezoelectric Energy Harvesting Floor Tiles
 
+
+[![Firmware CI](https://github.com/ParthDalakoti/footstep-piezoelectric-energy-harvester/actions/workflows/firmware-ci.yml/badge.svg)](https://github.com/ParthDalakoti/footstep-piezoelectric-energy-harvester/actions) [![Wokwi Simulation](https://img.shields.io/badge/Simulation-Wokwi_Virtual_Lab-00B4D8.svg?style=for-the-badge&logo=espressif)](https://wokwi.com)
+
 [![Microcontroller](https://img.shields.io/badge/MCU-Arduino_Uno-E7352C.svg?style=for-the-badge)](https://www.espressif.com/)
 [![Protocols](https://img.shields.io/badge/Protocols-Analog_ADC,_Bridge_Rectification-blue.svg?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Tested_%26_Verified-success.svg?style=for-the-badge)]()
@@ -50,3 +53,10 @@ graph LR
 *B.Tech in Electronics & Communication Engineering (2023–2027)*  
 *Graphic Era Hill University (GEHU), Bhimtal Campus*  
 *Contact:* `parthdalakoti482@gmail.com` • [GitHub Profile](https://github.com/ParthDalakoti)
+
+---
+
+## 📸 Hardware Bench Test Photos
+
+![Hardware Prototype Setup](media/hardware_demo_1.jpg)
+
